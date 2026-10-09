@@ -2,6 +2,8 @@
 
 [![Invítame a un café en Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/johanderohan)
 
+Ficha del proyecto, capturas y más traducciones al castellano en **[Parches en Castellano](https://parchesencastellano.com/traducciones/dreamcast/blue-stinger)**.
+
 Traducción al **español de España** de *Blue Stinger* (Dreamcast, 1999), la aventura de acción
 de Climax Graphics publicada por Activision en Norteamérica, que nunca salió en español.
 
